@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+.about-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+.about-question {
+  color: #94a3b8;
+  font-size: 16px;
+}
+.about-answer {
+  color: #007bff;
+  font-size: 16px;
+}
